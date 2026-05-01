@@ -1,0 +1,6 @@
+figcaption{
+    text-align: center;
+}
+table,tr, th,td{
+    color: chartreuse; border: .5;
+}
